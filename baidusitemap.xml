@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://yoursite.com/2015/10/16/%E9%85%8D%E7%BD%AE%E4%B8%8D%E5%90%8C%E5%9F%9F%E5%90%8D%E8%AE%BF%E9%97%AE%E5%90%8C%E4%B8%80Tomcat%E4%B8%8B%E7%9A%84%E4%B8%8D%E5%90%8C%E9%A1%B9%E7%9B%AE%E7%9A%84%E8%AF%A6%E8%A7%A3/</loc>
+    <lastmod>2018-02-07T07:51:12.112Z</lastmod>
+    <data>
+        <display>
+        <title>配置不同域名访问同一Tomcat下的不同项目的详解</title>
+        <pubTime>2015-10-15T16:23:39.000Z</pubTime>
+        
+        <tag>CSS</tag>
+         
+        <tag>Hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="术业专攻" url="http://yoursite.com/categories/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+    
+    
+    
+  <url>
+    <loc>http://yoursite.com/2017/06/09/%E8%8A%BD%E5%BA%84-%E5%89%AF%E6%9C%AC/</loc>
+    <lastmod>2017-06-09T09:52:25.427Z</lastmod>
+    <data>
+        <display>
+        <title>玩遍这些才算来过芽庄</title>
+        <pubTime>2017-06-09T09:15:48.000Z</pubTime>
+        
+        <tag>travel</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/06/09/%E8%8A%BD%E5%BA%84/</loc>
+    <lastmod>2017-06-09T09:52:25.427Z</lastmod>
+    <data>
+        <display>
+        <title>玩遍这些才算来过芽庄</title>
+        <pubTime>2017-06-09T09:15:48.000Z</pubTime>
+        
+        <tag>travel</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
