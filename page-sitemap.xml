@@ -7,29 +7,8 @@
     </url>
     
     <url>
-        <loc>http://yoursite.com/hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2.html</loc>
-        <lastmod>2018-02-08T08:24:08.264Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://yoursite.com/README.html</loc>
-        <lastmod>2018-02-07T07:32:06.651Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
         <loc>http://yoursite.com/about/index.html</loc>
         <lastmod>2018-02-07T07:29:02.537Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://yoursite.com/markdown-demo/index.html</loc>
-        <lastmod>2018-02-07T03:13:29.536Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
