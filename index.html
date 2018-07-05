@@ -202,7 +202,7 @@
                 
                 <section class="switch-part switch-part2">
                     <div class="widget tagcloud" id="js-tagcloud">
-                        <ul class="tag-list"><li class="tag-list-item"><a class="tag-list-link" href="/tags/SpringBoot/">SpringBoot</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/多数据源/">多数据源</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/读写分离/">读写分离</a></li></ul>
+                        <ul class="tag-list"><li class="tag-list-item"><a class="tag-list-link" href="/tags/Date/">Date</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/SpringBoot/">SpringBoot</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/jackson/">jackson</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/多数据源/">多数据源</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/读写分离/">读写分离</a></li></ul>
                     </div>
                 </section>
                 
@@ -267,6 +267,84 @@
     </div>
 </nav>
       <div class="body-wrap">
+  
+    <article id="post-客户端通过SpringCloud调用服务端，服务端返回值包含date类型，客户端报下面异常Can-not-deserialize-value-of-type-java-util-Date-from-String" class="article article-type-post" itemscope itemprop="blogPost">
+  
+    <div class="article-meta">
+      <a href="/2018/07/05/客户端通过SpringCloud调用服务端，服务端返回值包含date类型，客户端报下面异常Can-not-deserialize-value-of-type-java-util-Date-from-String/" class="article-date">
+      <time datetime="2018-07-05T03:30:13.000Z" itemprop="datePublished">2018-07-05</time>
+</a>
+
+
+    </div>
+  
+  <div class="article-inner">
+    
+      <input type="hidden" class="isFancy" />
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2018/07/05/客户端通过SpringCloud调用服务端，服务端返回值包含date类型，客户端报下面异常Can-not-deserialize-value-of-type-java-util-Date-from-String/">客户端通过SpringCloud调用服务端，服务端返回值包含date类型，客户端报下面异常Can not deserialize value of type java.util.Date from String</a>
+    </h1>
+  
+
+      </header>
+      
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+      
+          
+              <h4 id="1、问题排查"><a href="#1、问题排查" class="headerlink" title="1、问题排查"></a>1、问题排查</h4><h4 id="出现的场景："><a href="#出现的场景：" class="headerlink" title="出现的场景："></a>出现的场景：</h4><p>服务端通过springmvc写了一个对外的接口，返回一个json字符串，其中该json带有日期，格式为yyyy-MM-dd HH:mm:ss</p>
+<p>客户端通过feign调用该http接口，指定返回值为一个Dto，Dto中日期的字段为Date类型</p>
+<p>客户端调用该接口后抛异常了。<br>
+          
+      
+    </div>
+    
+    <div class="article-info article-info-index">
+      
+      
+
+      
+    <div class="article-tag tagcloud">
+        <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Date/">Date</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/SpringBoot/">SpringBoot</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/jackson/">jackson</a></li></ul>
+    </div>
+
+      
+        <p class="article-more-link">
+          <a  href="/2018/07/05/客户端通过SpringCloud调用服务端，服务端返回值包含date类型，客户端报下面异常Can-not-deserialize-value-of-type-java-util-Date-from-String/#more">more >></a>
+        </p>
+      
+      <div class="clearfix"></div>
+    </div>
+    
+  </div>
+  
+</article>
+
+
+    <style>
+        #post-blog-building .article-tag {
+            display: none;
+        }
+    </style>
+
+
+
+
+
+
+
+
+
+
+
+
+
   
     <article id="post-SpringBoot基于SpringAop实现Mysql的读写分离-多数据源" class="article article-type-post" itemscope itemprop="blogPost">
   
